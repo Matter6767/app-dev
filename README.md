@@ -1,5 +1,4 @@
 # app-dev
-
 # My favorite series/movie
 
 ## Title: Fear Street
