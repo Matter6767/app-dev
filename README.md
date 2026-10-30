@@ -1,6 +1,6 @@
 # app-dev
 # My favorite series/movie
-
+My first repository
 ## Title: Fear Street
 
 ### About Fear Street
